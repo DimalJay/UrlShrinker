@@ -1,0 +1,25 @@
+#spinner{
+    width:20px;
+    height:20px;
+}
+
+.logo{
+    padding:30px;
+}
+
+ppp{
+    overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.container-fluid{
+    max-width: 540px;
+}
+button.btn.da:hover{
+    box-shadow: none;
+    color:#4CAF50
+}
+div.btn.dat:hover{
+    box-shadow: none;
+}
